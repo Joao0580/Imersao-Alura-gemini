@@ -12,7 +12,7 @@ CSS3
 JavaScript (ES6+)
 
 ## Como conseguir acessar?
-Basta copiar esses diretórios e executar no VS Code (Infelizmente meu projeto não está funcionando corretamente no Vercel).
+Basta clicar no link acima e será redirecionado para oo meu projeto.
 
 
 ## Sobre mim
